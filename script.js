@@ -1,1 +1,3 @@
-console.log("Testing JS");
+var blurb = function(){
+  console.log("Hey this works!");
+};
